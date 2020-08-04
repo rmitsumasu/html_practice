@@ -1,0 +1,7 @@
+M&R English Vocabulary 7000 is a iPhone application for Japanese students.
+This application has the following features:
+1) This is a iPhone application. So users can take their iPhones anywhere and they will be able to study English vocabulary anywhere.
+2) This application include native speakers' pronunciation.
+So students will be able to listen to theirs.
+3) If users set up proper in the setup screen, this application train them effectively.
+4) Users can update each word's Japanese meaning and English and Japanese sample sentences in the update screen anytime.
